@@ -1,20 +1,15 @@
-👋 Hola, soy Yolanda Beltrán 
+👋 Hola! Soy Yolanda Beltrán
 
-👩‍🏫 Soy Administradora de Empresas con conocimientos en Power BI, MySQL y una formación técnica en sistemas informáticos.
+📈 Administradora de Empresas con conocimientos en análisis de datos, manejo de bases de datos MySQL y herramientas como Power BI.
 
-📚 Me interesan leer, montar bicicleta y trotar.
+🌟 Actualmente desarrollo mis habilidades como analista de datos junior, enfocándome en transformar información compleja en decisiones estratégicas.
 
-✨ Actualmente estoy aprendiendo análisis avanzado de datos y mejorando mis habilidades en MySQL y Power BI.
+📚 Me apasiona aprender y aplicar soluciones basadas en datos que aporten valor a las organizaciones.
 
-👥 Estoy buscando colaborar en proyectos basados en datos e innovaciones en estrategias empresariales.
+💪 Estoy en constante aprendizaje para dominar las consultas SQL, el diseño y optimización de bases de datos, y la creación de reportes interactivos en Power BI.
 
-📧 Cómo contactarme:
+🌍 Me interesa colaborar con equipos innovadores que buscan optimizar procesos, mejorar la toma de decisiones y explorar nuevas oportunidades a través del análisis de datos.
 
-😃 Pronombres: Yolita
+📧 Contáctame: yolandaguiza56@gnail.com
 
- 
-
-<!---
-GBYolanda/GBYolanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 Buscas una profesional junior en bases de datos? Estoy lista para aportar mi conocimiento y crecer contigo! 🚀
